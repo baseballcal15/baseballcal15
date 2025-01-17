@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baseballcal15
-- 👀 I’m interested in ... learning lua
-- 🌱 I’m currently learning ... lua 
+- 👀 I’m interested in ... learning c++
+- 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Private message me
 
